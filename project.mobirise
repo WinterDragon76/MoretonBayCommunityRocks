@@ -317,9 +317,9 @@
           "subtitle": "If you'd like to get in touch or would like us to be a part of your community group, please get in touch:",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "tanjargray@gmail.com",
+            "action": "stunatpoole@yahoo.com.au",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for getting in touch,  We will get back to you shortly."
             },
             "fields": {
               "name": {
